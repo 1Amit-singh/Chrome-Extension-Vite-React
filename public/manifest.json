@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "GPT-3 Chat",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
